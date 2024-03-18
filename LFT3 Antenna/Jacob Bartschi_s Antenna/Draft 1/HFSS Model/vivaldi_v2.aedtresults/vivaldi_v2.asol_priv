@@ -1,0 +1,53 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002024, month=000000000003, day=000000000014, hour=000000000014, min=000000000029, sec=000000000048)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='vivaldi_v2'
+	VersionID=4363
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=4638
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='B=\'181.87409118666667mm\' C=\'299792458\' curve1y=\'16.988239286666666mm\' curve2y=\'16.988239286666666mm\' cuTh=\'0.043200000000000002mm\' Eone=\'6.9951573533333331mm\' Etwo=\'6.9951573533333331mm\' Fone=\'8.99377374mm\' FS=\'16.988239286666666mm\' Ftwo=\'4.9965409666666663mm\' G=\'16mm\' L=\'366.74610695333331mm\' lam4=\'99.930819333333332mm\' lambc=\'0.99930819333333332\' lowest_freq=\'300000000\' lowest_wave=\'0.99930819333333332\' offset=\'6.9951573533333331mm\' Pone=\'99.930819333333332mm\' portoffset=\'16.988239286666666mm\' Ptwo=\'4.9965409666666663mm\' slot=\'2.9979245799999998mm\' slotL=\'199.86163866666666mm\' slotoffset=\'34.975786766666666mm\' slotspc=\'9.9930819333333325mm\' slotW=\'9.9930819333333325mm\' Sone=\'2.9979245799999998mm\' Sthree=\'9.9930819333333325mm\' Stwo=\'2.4982704833333331mm\' subL=\'399.72327733333333mm\' subTh=\'1.633mm\' subW=\'366.74610695333331mm\' W=\'399.72327733333333mm\' w100=\'3.6674610695333327mm\' w50=\'8.99377374mm\' w70=\'4.9965409666666663mm\'', ID=4466)
+		Map(V='B=\'181.87409118666667mm\' C=\'299792458\' curve1y=\'16.988239286666666mm\' curve2y=\'16.988239286666666mm\' cuTh=\'0.043200000000000002mm\' Eone=\'6.9951573533333331mm\' Etwo=\'6.9951573533333331mm\' Fone=\'8.99377374mm\' FS=\'16.988239286666666mm\' Ftwo=\'4.9965409666666663mm\' G=\'52.963334246666669mm\' L=\'366.74610695333331mm\' lam4=\'99.930819333333332mm\' lambc=\'0.99930819333333332\' lowest_freq=\'300000000\' lowest_wave=\'0.99930819333333332\' offset=\'6.9951573533333331mm\' Pone=\'99.930819333333332mm\' portoffset=\'16.988239286666666mm\' Ptwo=\'4.9965409666666663mm\' slot=\'2.9979245799999998mm\' slotL=\'199.86163866666666mm\' slotoffset=\'34.975786766666666mm\' slotspc=\'9.9930819333333325mm\' slotW=\'9.9930819333333325mm\' Sone=\'2.9979245799999998mm\' Sthree=\'9.9930819333333325mm\' Stwo=\'2.4982704833333331mm\' subL=\'399.72327733333333mm\' subTh=\'1.633mm\' subW=\'366.74610695333331mm\' W=\'399.72327733333333mm\' w100=\'3.6674610695333327mm\' w50=\'8.99377374mm\' w70=\'4.9965409666666663mm\'', ID=4468)
+		Map(V='B=\'181.87409118666667mm\' C=\'299792458\' curve1y=\'16.988239286666666mm\' curve2y=\'16.988239286666666mm\' cuTh=\'0.043200000000000002mm\' Eone=\'6.9951573533333331mm\' Etwo=\'6.9951573533333331mm\' Fone=\'8.99377374mm\' FS=\'16.988239286666666mm\' Ftwo=\'4.9965409666666663mm\' G=\'52.963334246666669mm\' L=\'566.74610695333331mm\' lam4=\'99.930819333333332mm\' lambc=\'0.99930819333333332\' lowest_freq=\'300000000\' lowest_wave=\'0.99930819333333332\' offset=\'6.9951573533333331mm\' Pone=\'99.930819333333332mm\' portoffset=\'16.988239286666666mm\' Ptwo=\'4.9965409666666663mm\' slot=\'2.9979245799999998mm\' slotL=\'199.86163866666666mm\' slotoffset=\'34.975786766666666mm\' slotspc=\'9.9930819333333325mm\' slotW=\'9.9930819333333325mm\' Sone=\'2.9979245799999998mm\' Sthree=\'9.9930819333333325mm\' Stwo=\'2.4982704833333331mm\' subL=\'399.72327733333333mm\' subTh=\'1.633mm\' subW=\'566.74610695333331mm\' W=\'399.72327733333333mm\' w100=\'5.6674610695333323mm\' w50=\'8.99377374mm\' w70=\'4.9965409666666663mm\'', ID=4633)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'10mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4245)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'16mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4226)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'17mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4232)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'20mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4231)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'25mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4223)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' G=\'5mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4248)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'3mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4023)
+		Map(V='curve1y=\'5mm\' curve2y=\'5mm\' cuTh=\'0.043200000000000002mm\' lam4=\'30mm\' lambc=\'0.19354838709677419meter\' offset=\'2mm\' portoffset=\'5mm\' slot=\'1mm\' slotL=\'55mm\' slotoffset=\'10mm\' slotspc=\'3mm\' slotW=\'8mm\' subL=\'110mm\' subTh=\'1.633mm\' subW=\'120mm\' w100=\'1.2mm\' w50=\'2.7999999999999998mm\' w70=\'1.5mm\'', ID=4189)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=60
+	$begin 'NextAssemVersionID'
+		NextUniqueID=61
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=3811, Instance=\'SetupDefinition\', Solution=-1, VersionID=4363)'='SolutionBlock33'
+	'SolutionKey(SimSetup=3811, Instance=\'SolutionDefinition\', Solution=3812, VersionID=4363)'='SolutionBlock30'
+	'SolutionKey(SimSetup=3811, Instance=\'SolutionDefinition\', Solution=3813, VersionID=4363)'='SolutionBlock31'
+	'SolutionKey(SimSetup=3811, Instance=\'SolutionDefinition\', Solution=3814, VersionID=4363)'='SolutionBlock32'
+	'SolutionKey(SimSetup=70, Instance=\'SetupDefinition\', Solution=-1, VersionID=4363)'='SolutionBlock29'
+	'SolutionKey(SimSetup=70, Instance=\'SolutionDefinition\', Solution=71, VersionID=4363)'='SolutionBlock26'
+	'SolutionKey(SimSetup=70, Instance=\'SolutionDefinition\', Solution=72, VersionID=4363)'='SolutionBlock27'
+	'SolutionKey(SimSetup=70, Instance=\'SolutionDefinition\', Solution=73, VersionID=4363)'='SolutionBlock28'
+$end 'BlockMapName'
